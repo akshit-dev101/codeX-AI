@@ -4,7 +4,8 @@ This is a coding chatbot project that is a clone of ChatGPT using OpenAI's API a
 Features :gear:  
 Utilizes OpenAI's API to generate responses to coding-related questions and problems
 Implements a simple vanilla JavaScript frontend
-Allows users to have coding-focused conversations with the chatbot
+Allows users to have coding-focused conversations with the chatbot  
+
 Live Site :rocket:
 You can try out Codex-AI Chatbot at https://code-x-ai-cbfd.vercel.app/  
 
