@@ -1,16 +1,19 @@
-**Codex-AI Chatbot** :robot:   
-This is a coding chatbot project that is a clone of ChatGPT using OpenAI's API and vanilla JavaScript.  
+**Codex-AI Chatbot** :robot:
 --
+This is a coding chatbot project that is a clone of ChatGPT using OpenAI's API and vanilla JavaScript.  
+
 Features :gear:  
+--
 Utilizes OpenAI's API to generate responses to coding-related questions and problems
 Implements a simple vanilla JavaScript frontend
 Allows users to have coding-focused conversations with the chatbot  
---
-Live Site :rocket:  
-You can try out Codex-AI Chatbot at https://code-x-ai-cbfd.vercel.app/  
---
-Getting Started :bulb:  
 
+Live Site :rocket:  
+--
+You can try out Codex-AI Chatbot at https://code-x-ai-cbfd.vercel.app/  
+
+Getting Started :bulb:  
+--
 To use this chatbot, you will need to:  
 1.Obtain an API key from OpenAI by creating an account at https://beta.openai.com/signup.  
 2.Clone this repository to your local machine.  
